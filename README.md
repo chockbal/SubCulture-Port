@@ -1,6 +1,10 @@
 UniTask & UniRx 기반 모듈형 전투 시스템 (Core Logic)
 본 저장소는 유니티(Unity) 환경에서 고성능 전투 시스템을 구축하기 위해 설계된 핵심 모듈들을 포함하고 있습니다. 데이터-로직-액터 레이어의 엄격한 분리를 통해 유지보수성과 확장성을 극대화하는 데 집중했습니다.
 
+## 📺 Gameplay Video & Portfolio
+* 🎬 **[플레이 영상 보기 (YouTube/Drive)]**(여기에 실제 주소를 넣으세요)
+* 📄 **[3D 서브컬쳐 게임 포트폴리오 PDF](./포트폴리오_3D_서브컬쳐게임.pdf)**
+
 🛠 Tech Stack
 Engine: Unity 2022.3+ (URP)
 
